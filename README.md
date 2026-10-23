@@ -16,8 +16,7 @@ So, I have an Internship, an unpaid one, there i have to edit tons of talking he
 ## Tech Stack
 
 - **FrontEnd:** Next.js, TypeScript
-- **Backend:** Node.js
-- **AI & Video Processing:** Python
+- **AI & Video Processing:** Python, FastAPI
 - **Version Control:** Git and Github
 
 ## Project Status
